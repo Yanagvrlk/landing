@@ -1,0 +1,9 @@
+.header {
+    background-image: url(/img/header-background.png);
+}
+h2 {
+color: red;
+}
+h1 {
+    color: green;
+}
